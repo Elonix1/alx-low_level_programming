@@ -5,14 +5,10 @@
 
 
 /**
- *
- *  * main - gate way
- *
- *   * Description:this code  prints "\"Programming is like building a multilingual puzzle"*
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ * main - gate way
+ *Description:this code  prints "\"Programming is like building a multilingual puzzle"*
+ * Return: Always 0 (Success)
+ */
 
 
 
